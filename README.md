@@ -1,2 +1,2 @@
-# Manga Downloader
-Issue tracker for the Manga Downloader project https://redsquirrel87.com/manga-downloader
+# JAM
+Issue tracker for the JAM project https://redsquirrel87.com/jam
